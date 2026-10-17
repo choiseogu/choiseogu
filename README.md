@@ -1,7 +1,7 @@
-# About Me:
+## 반갑습니다😊:
 👋 국민대학교에서 정보보안암호수학과 소프트웨어학을 복수전공하고 있습니다.<br>🌱 Java / Spring 기반 백엔드와 인프라(DevOps), DS를 공부하고 있습니다.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🖥️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
