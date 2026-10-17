@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20choiseogu&fontSize=45&fontAlignY=38&animation=fadeIn" />
+</p>
+
 ## 반갑습니다😊:
 👋 국민대학교에서 정보보안암호수학과 소프트웨어학을 복수전공하고 있습니다.<br>🌱 Java / Spring 기반 백엔드와 인프라(DevOps), DS를 공부하고 있습니다.
 
