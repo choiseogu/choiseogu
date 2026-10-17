@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20choiseogu&fontSize=45&fontAlignY=38&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%2F+Spring+%2B+DevOps;Information+Security+%26+Software" />
 </p>
 
 ## 반갑습니다😊:
